@@ -1,0 +1,5 @@
+{
+  "name": "AceIt - Smart Study Companion",
+  "description": "An intelligent, Anki-style flashcard app with FSRS algorithm, exam-based scheduling, and swipe gestures.",
+  "requestFramePermissions": []
+}
